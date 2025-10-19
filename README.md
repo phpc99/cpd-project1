@@ -196,3 +196,7 @@ PAPI_REF_CYC 0x8000006b  Yes   No   Reference clock cycles
 
 Of 108 possible events, 59 are available, of which 18 are derived.
 ```
+
+# Authors
+- Lara Cunha (up202108876)
+- Pedro Camargo (up202102365)

@@ -9,7 +9,9 @@
 - Developed versions in C++ and Python for cross-language performance evaluation;
 - Conducted scalability tests with increasing matrix sizes to analyze computational efficiency.
 
-# Screenshots
+# Report
+
+https://github.com/phpc99/cpd-project1/blob/main/report.pdf
 
 # Results of running ```lscpu``` command:
 

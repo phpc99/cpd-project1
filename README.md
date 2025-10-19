@@ -1,3 +1,14 @@
+# Features
+
+- Implemented multiple matrix multiplication approaches, including standard, line-based, block-based, and parallel versions;
+- Used OpenMP to introduce multi-threading and evaluate parallel performance on multi-core systems;
+- Measured key performance metrics such as execution time, speedup, and efficiency;
+- Analyzed cache behavior and memory performance using PAPI counters;
+- Compared results between single-core and multi-core executions to assess scalability;
+- Visualized results through performance graphs for clearer comparison;
+- Developed versions in C++ and Python for cross-language performance evaluation;
+- Conducted scalability tests with increasing matrix sizes to analyze computational efficiency.
+
 # Results of running ```lscpu``` command:
 
 ```

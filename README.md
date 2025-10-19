@@ -9,6 +9,8 @@
 - Developed versions in C++ and Python for cross-language performance evaluation;
 - Conducted scalability tests with increasing matrix sizes to analyze computational efficiency.
 
+# Screenshots
+
 # Results of running ```lscpu``` command:
 
 ```
